@@ -8,5 +8,4 @@ http.createServer((req, res) => {
   console.log(`Server listening on port ${port}`)
   console.log(`AAAAAAAA ${port}`)
   console.log(`AAAAAAAA ${port}`)
-  console.log(`BBBBBBBB ${port}`)
 })
